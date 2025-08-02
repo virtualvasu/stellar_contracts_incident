@@ -42,8 +42,4 @@ git clone https://github.com/virtualvasu/stellar_contracts_incident.git
 cd stellar_contracts_incident
 ```
 
----
 
-## License
-
-MIT
